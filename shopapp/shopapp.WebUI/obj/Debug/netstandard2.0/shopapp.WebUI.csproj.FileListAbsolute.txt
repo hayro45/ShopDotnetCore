@@ -1,0 +1,4 @@
+C:\Users\hayre\source\repos\shopapp\shopapp.webui\obj\Debug\netstandard2.0\shopapp.WebUI.csprojAssemblyReference.cache
+C:\Users\hayre\source\repos\shopapp\shopapp.webui\obj\Debug\netstandard2.0\shopapp.WebUI.AssemblyInfoInputs.cache
+C:\Users\hayre\source\repos\shopapp\shopapp.webui\obj\Debug\netstandard2.0\shopapp.WebUI.AssemblyInfo.cs
+C:\Users\hayre\source\repos\shopapp\shopapp.webui\obj\Debug\netstandard2.0\shopapp.WebUI.csproj.CoreCompileInputs.cache

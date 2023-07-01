@@ -1,0 +1,27 @@
+@model RoleModel
+<div class="col-md-8">
+    <h1 class="h3">Create Role</h1>
+    <hr>
+    
+    <form asp-controller="Admin" asp-action="RoleCreate" method="POST">
+        <div asp-validation-summary="All" class="text-danger"> </div>
+        <div class="form-group row">
+            <label asp-for="Name" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-10">
+                <input class="form-control" asp-for="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+        </div>
+        
+        <div class="form-group row">
+            <div class="col-sm-10 offset-sm-2">
+                <button type="submit" class="btn btn-primary">Save Role</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+        <script src="/modules/jquery-validation/dist/jquery.validate.min.js"></script>
+        <script src="/modules/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
+}

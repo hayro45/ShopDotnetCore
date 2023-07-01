@@ -1,0 +1,14 @@
+C:\Users\hayre\source\repos\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.deps.json
+C:\Users\hayre\source\repos\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\hayre\source\repos\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.pdb
+C:\Users\hayre\source\repos\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.dll
+C:\Users\hayre\source\repos\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\hayre\source\repos\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\hayre\source\repos\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.pdb
+C:\Users\hayre\source\repos\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csprojAssemblyReference.cache
+C:\Users\hayre\source\repos\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfoInputs.cache
+C:\Users\hayre\source\repos\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfo.cs
+C:\Users\hayre\source\repos\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CoreCompileInputs.cache
+C:\Users\hayre\source\repos\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CopyComplete
+C:\Users\hayre\source\repos\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\hayre\source\repos\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.pdb
